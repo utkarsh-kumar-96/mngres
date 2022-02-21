@@ -8,6 +8,7 @@ public class MngresApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MngresApplication.class, args);
+		System.out.println("I AM ALIVE");
 	}
 
 }
